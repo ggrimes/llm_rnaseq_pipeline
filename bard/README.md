@@ -1,4 +1,5 @@
-
+Prompt `
+create an Nextflow RNA-Seq pipeline using salmon `
 
 # Draft 1
 
